@@ -1,0 +1,30 @@
+Massachusetts Institute of Technology (MIT)
+Stanford University
+Harvard University
+California Institute of Technology (Caltech)
+University of Chicago
+Princeton University
+Columbia University
+Yale University
+University of Pennsylvania
+University of California, Berkeley
+University of California, Los Angeles (UCLA)
+University of California, San Diego (UCSD)
+University of California, San Francisco (UCSF)
+University of Washington
+University of Michigan, Ann Arbor
+Johns Hopkins University
+Duke University
+Northwestern University
+University of Wisconsin-Madison
+University of California, Santa Barbara (UCSB)
+New York University (NYU)
+University of Texas at Austin
+University of North Carolina at Chapel Hill
+University of California, Irvine (UCI)
+University of California, Davis (UCD)
+University of Illinois Urbana-Champaign
+University of Florida
+University of Maryland, College Park
+University of Southern California (USC)
+University of Minnesota, Twin Cities
