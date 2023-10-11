@@ -39,7 +39,7 @@ def get_all_birth_city_choices(N=4):  # this N supposed to be 100 ~ len(birthcit
     return birth_city_list
 
 
-def get_all_university_choices(N=4):  # this N supposed to be 100 ~ len(majorlist)
+def get_all_university_choices(N=4):  # this N supposed to be 100 ~ len(universitylist)
     if N < len(universitylist):
         university_list = random.sample(universitylist, N)
     else:
@@ -47,7 +47,7 @@ def get_all_university_choices(N=4):  # this N supposed to be 100 ~ len(majorlis
     return university_list
 
 
-def get_all_majors(N=4):  # this N supposed to be 100 ~ len(majorlist)
+def get_all_major_choices(N=4):  # this N supposed to be 100 ~ len(majorlist)
     if N < len(majorlist):
         major_list = random.sample(majorlist, N)
     else:
@@ -55,7 +55,7 @@ def get_all_majors(N=4):  # this N supposed to be 100 ~ len(majorlist)
     return major_list
 
 
-def get_all_employers_and_city_choices(N=4):  # this N supposed to be 100 ~ len(employers_and_city_list)
+def get_all_employer_and_city_choices(N=4):  # this N supposed to be 100 ~ len(employers_and_city_list)
     if N < len(employers_and_city_list):
         employer_and_city_list = random.sample(employers_and_city_list, N)
     else:
