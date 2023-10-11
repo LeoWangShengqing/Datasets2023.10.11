@@ -72,4 +72,4 @@ def get_all_employers_and_city_choices(N=4):  # this N supposed to be 100 ~ len(
 # with open('materials/Raw materials/Raw_cities.txt', 'w') as file:
 # for city in cities:
 # file.write(city + "\n")
-print(get_all_employers_and_city_choices())
+# print(get_all_employers_and_city_choices())
