@@ -1,5 +1,6 @@
 import random
 from get_all_info import get_all_info
+from genaerate_bioS import bioS_data
 
 get_all_info = get_all_info()
 all_name_choices = get_all_info.get_N_names()
@@ -14,6 +15,7 @@ class Person:
     def __init__(self, id):
         self.id = id
         self.name = all_name_choices[self.id]
+        self.pronoun = random.choice(["he", "she", "they"])
         self.birthday = random.choice(all_birthday_choices)
         self.birth_city = random.choice(all_birth_city_choices)
         self.univerity = random.choice(all_university_choices)
@@ -21,7 +23,14 @@ class Person:
         (employer, company_city) = random.choice(all_employer_city_choices)
         self.employer = employer
         self.company_city = company_city
-
+        self.bioS_single = ""
+        self.bioS_single_fullname = ""
+        self.bioS_single_permute_1_2_5 = ""
+        self.bioS_single_permute_1_2_5_fullname = ""
+        self.bioS_multi_2_5 = []
+        self.bioS_multi_2_5_permute = []
+        self.bioS_multi_2_5_fullname = []
+        self.bioS_multi_2_5_permute_fullname =[]
         self.QA = {
             "What is the birth date of " + self.name + "?": self.birthday,
             "What is the birth city of " + self.name + "?": self.birth_city,
@@ -43,5 +52,14 @@ def create_N_Person():
     personlist = []
     for i in range(len(all_name_choices)):
         p = Person(i)
+        pb = bioS_data(p)
+        p.bioS_single = pb.bioS_sentences("bioS single")
+        p.bioS_single_fullname = pb.bioS_sentences("bioS single full name")
+        p.bioS_single_permute_1_2_5 = pb.bioS_sentences("bioS single permute1/2/5")
+        p.bioS_single_permute_1_2_5_fullname = pb.bioS_sentences("bioS single permute1/2/5 fullname")
+        p.bioS_multi_2_5 = pb.bioS_sentences("bioS multi2/5")
+        p.bioS_multi_2_5_permute = pb.bioS_sentences("bioS multi2/5 permute")
+        p.bioS_multi_2_5_fullname = pb.bioS_sentences("bioS multi2/5 fullname")
+        p.bioS_multi_2_5_permute_fullname = pb.bioS_sentences("bioS multi2/5 permute fullname")
         personlist.append(p)
     return personlist

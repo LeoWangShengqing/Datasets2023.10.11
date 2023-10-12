@@ -1,4 +1,4 @@
-def readList(list_path,ignore_head=False, sort=True):
+def readList(list_path, ignore_head=False, sort=True):
     lists = []
     with open(list_path) as f:
         lists = f.read().splitlines()
@@ -7,3 +7,7 @@ def readList(list_path,ignore_head=False, sort=True):
     if sort:
         lists.sort()
     return lists
+
+
+def capitalize_first(s):
+    return s[0].upper() + s[1:]

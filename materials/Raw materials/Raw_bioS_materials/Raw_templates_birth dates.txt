@@ -1,0 +1,46 @@
+(subj_pronoun) (be_past) born on (birthday).
+(subj_pronoun) celebrates another year of life on (birthday).
+(subj_pronoun) marks the day of birth every (birthday).
+The milestone of (pos_pronoun) life (be_present) celebrated on (birthday).
+(subj_pronoun) celebrates the journey of life every (birthday).
+(subj_pronoun) (be_past) in Paris for the last (birthday) celebration.
+(subj_pronoun) celebrated another chapter of life on (birthday).
+(pos_pronoun) birthday (be_past) celebrated with a homemade cake on (birthday).
+Last (birthday), another page in (pos_pronoun) life's book (be_past) marked.
+The journey of (pos_pronoun) life (be_past) celebrated on (birthday).
+(subj_pronoun) plans to celebrate on (birthday).
+(subj_pronoun) will mark another year of life on (birthday).
+(subj_pronoun) looks forward to (birthday).
+The next milestone in (pos_pronoun) life will be on (birthday).
+Every (birthday), (subj_pronoun) (be_present) the center of attention.
+(birthday) (be_present) the annual celebration for (subj_pronoun).
+(subj_pronoun) celebrates another year of memories on (birthday).
+(subj_pronoun) marks the day of birth every (birthday).
+The milestone of (pos_pronoun) life (be_present) celebrated on (birthday).
+(subj_pronoun) celebrates the life journey every (birthday).
+(subj_pronoun) had the annual festivity in Paris last (birthday).
+(subj_pronoun) celebrated another chapter of life on (birthday).
+(pos_pronoun) birth (be_past) commemorated with a homemade cake on (birthday).
+Last (birthday) marked another page in (pos_pronoun) life's book.
+The journey of (pos_pronoun) life (be_past) celebrated on (birthday).
+(subj_pronoun) plans to have the annual celebration on (birthday).
+(subj_pronoun) will celebrate the journey around the sun on (birthday).
+(subj_pronoun) looks forward to marking the day on (birthday).
+The (pos_pronoun) life's annual milestone will be on (birthday).
+The anniversary of (subj_pronoun)'s birth will be observed on (birthday).
+(subj_pronoun) has celebrated the life journey every year with friends since (birthday).
+(birthday) has been the consistent day of annual celebration for (subj_pronoun).
+(pos_pronoun) birth has been commemorated every year on (birthday).
+(subj_pronoun) marked each life's anniversary with new adventures since (birthday).
+(birthday) has been a day of reflection on (pos_pronoun) life's journey.
+(subj_pronoun) might choose (birthday) for the annual celebration.
+(subj_pronoun) should mark another year of life on (birthday).
+(subj_pronoun) could consider an event on (birthday) to make the day unique.
+(subj_pronoun) must remember all the beautiful memories on (birthday).
+(subj_pronoun) would find (birthday) perfect for some pampering.
+(subj_pronoun) awaits the festivities of the day on (birthday).
+(subj_pronoun) (be_present) surrounded by love and warmth every (birthday).
+(subj_pronoun) reflects upon the years gone by on (birthday).
+(birthday) stands as a testament to (pos_pronoun) life's journey.
+(subj_pronoun) celebrates another year of life on (birthday).
+(subj_pronoun) embarks on a personal new year every (birthday).

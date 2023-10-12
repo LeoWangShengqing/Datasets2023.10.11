@@ -1,35 +1,70 @@
-What is the birth date of Thaddeus Fielding Catterwaul? : July 12, 1971
-What is the birth city of Thaddeus Fielding Catterwaul? : Chicago, IL
-Which university did Thaddeus Fielding Catterwaul study? : University of Washington
-What major did Thaddeus Fielding Catterwaul study? : Communications
-Which company did Thaddeus Fielding Catterwaul work for? : Meta Platforms, Inc. (formerly Facebook, Inc.)
-Where did Thaddeus Fielding Catterwaul work? : Menlo Park, CA
+What is the birth date of Thaddeus Beauregard Nightingale? : February 26, 1961
+What is the birth city of Thaddeus Beauregard Nightingale? : San Diego, CA
+Which university did Thaddeus Beauregard Nightingale study? : University of California, San Francisco (UCSF)
+What major did Thaddeus Beauregard Nightingale study? : Computer Science
+Which company did Thaddeus Beauregard Nightingale work for? : JPMorgan Chase & Co.
+Where did Thaddeus Beauregard Nightingale work? : New York, NY
 
-What is the birth date of Penelope Beauregard Fotheringham? : October 5, 2066
-What is the birth city of Penelope Beauregard Fotheringham? : Chicago, IL
-Which university did Penelope Beauregard Fotheringham study? : Massachusetts Institute of Technology (MIT)
-What major did Penelope Beauregard Fotheringham study? : Political Science and Government
-Which company did Penelope Beauregard Fotheringham work for? : Microsoft Corporation
-Where did Penelope Beauregard Fotheringham work? : Redmond, WA
+What is the birth date of Thaddeus Winslow Quibble? : March 11, 1980
+What is the birth city of Thaddeus Winslow Quibble? : Phoenix, AZ
+Which university did Thaddeus Winslow Quibble study? : University of Southern California (USC)
+What major did Thaddeus Winslow Quibble study? : Economics
+Which company did Thaddeus Winslow Quibble work for? : Apple Inc.
+Where did Thaddeus Winslow Quibble work? : Cupertino, CA
 
-What is the birth date of Horatio Montgomery Lightfoot? : November 3, 2043
-What is the birth city of Horatio Montgomery Lightfoot? : Chicago, IL
-Which university did Horatio Montgomery Lightfoot study? : Northwestern University
-What major did Horatio Montgomery Lightfoot study? : Biological Sciences
-Which company did Horatio Montgomery Lightfoot work for? : Tesla, Inc.
-Where did Horatio Montgomery Lightfoot work? : Palo Alto, CA
+What is the birth date of Horatio Fielding Fotheringham? : September 16, 2090
+What is the birth city of Horatio Fielding Fotheringham? : Philadelphia, PA
+Which university did Horatio Fielding Fotheringham study? : University of North Carolina at Chapel Hill
+What major did Horatio Fielding Fotheringham study? : Business Administration and Management
+Which company did Horatio Fielding Fotheringham work for? : Meta Platforms, Inc. (formerly Facebook, Inc.)
+Where did Horatio Fielding Fotheringham work? : Menlo Park, CA
 
-What is the birth date of Seraphina Winslow Grimshaw? : May 21, 1999
-What is the birth city of Seraphina Winslow Grimshaw? : New York, NY
-Which university did Seraphina Winslow Grimshaw study? : University of Texas at Austin
-What major did Seraphina Winslow Grimshaw study? : Business Administration and Management
-Which company did Seraphina Winslow Grimshaw work for? : Meta Platforms, Inc. (formerly Facebook, Inc.)
-Where did Seraphina Winslow Grimshaw work? : Menlo Park, CA
+What is the birth date of Thaddeus Beauregard Devereux? : August 28, 2007
+What is the birth city of Thaddeus Beauregard Devereux? : San Diego, CA
+Which university did Thaddeus Beauregard Devereux study? : California Institute of Technology (Caltech)
+What major did Thaddeus Beauregard Devereux study? : Business Administration and Management
+Which company did Thaddeus Beauregard Devereux work for? : Microsoft Corporation
+Where did Thaddeus Beauregard Devereux work? : Redmond, WA
 
-What is the birth date of Thaddeus Fielding Nightingale? : August 20, 1911
-What is the birth city of Thaddeus Fielding Nightingale? : Philadelphia, PA
-Which university did Thaddeus Fielding Nightingale study? : Stanford University
-What major did Thaddeus Fielding Nightingale study? : Business Administration and Management
-Which company did Thaddeus Fielding Nightingale work for? : Visa Inc.
-Where did Thaddeus Fielding Nightingale work? : Foster City, CA
+What is the birth date of Seraphina Montgomery Grimshaw? : October 12, 1958
+What is the birth city of Seraphina Montgomery Grimshaw? : San Diego, CA
+Which university did Seraphina Montgomery Grimshaw study? : University of California, San Francisco (UCSF)
+What major did Seraphina Montgomery Grimshaw study? : Computer Science
+Which company did Seraphina Montgomery Grimshaw work for? : Tesla, Inc.
+Where did Seraphina Montgomery Grimshaw work? : Palo Alto, CA
+
+What is the birth date of Penelope Winslow Catterwaul? : May 22, 2064
+What is the birth city of Penelope Winslow Catterwaul? : Chicago, IL
+Which university did Penelope Winslow Catterwaul study? : New York University (NYU)
+What major did Penelope Winslow Catterwaul study? : Nursing
+Which company did Penelope Winslow Catterwaul work for? : Visa Inc.
+Where did Penelope Winslow Catterwaul work? : Foster City, CA
+
+What is the birth date of Penelope Winslow Trueblood? : July 28, 2070
+What is the birth city of Penelope Winslow Trueblood? : San Diego, CA
+Which university did Penelope Winslow Trueblood study? : Princeton University
+What major did Penelope Winslow Trueblood study? : Communications
+Which company did Penelope Winslow Trueblood work for? : Alphabet Inc. (Google's parent company)
+Where did Penelope Winslow Trueblood work? : Mountain View, CA
+
+What is the birth date of Penelope Winslow Quibble? : October 26, 1984
+What is the birth city of Penelope Winslow Quibble? : Phoenix, AZ
+Which university did Penelope Winslow Quibble study? : Harvard University
+What major did Penelope Winslow Quibble study? : Engineering
+Which company did Penelope Winslow Quibble work for? : JPMorgan Chase & Co.
+Where did Penelope Winslow Quibble work? : New York, NY
+
+What is the birth date of Thaddeus Beauregard Trueblood? : December 17, 2034
+What is the birth city of Thaddeus Beauregard Trueblood? : San Diego, CA
+Which university did Thaddeus Beauregard Trueblood study? : Yale University
+What major did Thaddeus Beauregard Trueblood study? : Economics
+Which company did Thaddeus Beauregard Trueblood work for? : Alphabet Inc. (Google's parent company)
+Where did Thaddeus Beauregard Trueblood work? : Mountain View, CA
+
+What is the birth date of Seraphina Winslow Lightfoot? : November 28, 1960
+What is the birth city of Seraphina Winslow Lightfoot? : Philadelphia, PA
+Which university did Seraphina Winslow Lightfoot study? : Princeton University
+What major did Seraphina Winslow Lightfoot study? : Political Science and Government
+Which company did Seraphina Winslow Lightfoot work for? : Amazon.com Inc.
+Where did Seraphina Winslow Lightfoot work? : Seattle, WA
 
