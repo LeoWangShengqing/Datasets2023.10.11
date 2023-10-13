@@ -1,6 +1,9 @@
 import random
+import sys
+
 from get_all_info import get_all_info
 from genaerate_bioS import bioS_data
+from tqdm import tqdm
 
 get_all_info = get_all_info()
 all_name_choices = get_all_info.get_N_names()
@@ -30,7 +33,7 @@ class Person:
         self.bioS_multi_2_5 = []
         self.bioS_multi_2_5_permute = []
         self.bioS_multi_2_5_fullname = []
-        self.bioS_multi_2_5_permute_fullname =[]
+        self.bioS_multi_2_5_permute_fullname = []
         self.QA = {
             "What is the birth date of " + self.name + "?": self.birthday,
             "What is the birth city of " + self.name + "?": self.birth_city,
@@ -48,9 +51,10 @@ class Person:
 # file.write(f"{key} : {value}\n")
 
 def create_N_Person():
-    print("---- Create information for", str(len(all_name_choices)), "individuals ----")
+    print(" ")
+    print("---------- Create information for", str(len(all_name_choices)), "individuals ----------")
     personlist = []
-    for i in range(len(all_name_choices)):
+    for i in tqdm(range(len(all_name_choices)), desc="Processing ", file=sys.stdout):
         p = Person(i)
         pb = bioS_data(p)
         p.bioS_single = pb.bioS_sentences("bioS single")
@@ -62,4 +66,5 @@ def create_N_Person():
         p.bioS_multi_2_5_fullname = pb.bioS_sentences("bioS multi2/5 fullname")
         p.bioS_multi_2_5_permute_fullname = pb.bioS_sentences("bioS multi2/5 permute fullname")
         personlist.append(p)
+    print("------------------------------------------------------------")
     return personlist

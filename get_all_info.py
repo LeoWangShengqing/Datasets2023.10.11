@@ -22,13 +22,16 @@ class get_all_info:
         self.employers_and_city_list = [item.split(" - ") for item in data_utils.readList(
             "materials/Raw materials/Raw_employers and company cities.txt")]
 
-        self.Sample_size_people = int(input("----Please input Sample size for people (5):"))
-        self.Sample_size_birth_city = int(input("----Please input Sample size for birth city (100~1000) :"))
-        self.Sample_size_university = int(input("----Please input Sample size for university (100~1000) :"))
-        self.Sample_size_major = int(input("----Please input Sample size for major (100~1000) :"))
-        self.Sample_size_employer_company_city = int(input("----Please input Sample size for employer (100~1000) :"))
+        self.Sample_size_people = int(input("----Please input Sample size for people (5): "))
+        self.Sample_size_birth_city = int(input("----Please input Sample size for birth city (100~1000) : "))
+        self.Sample_size_university = int(input("----Please input Sample size for university (100~1000) : "))
+        self.Sample_size_major = int(input("----Please input Sample size for major (100~1000) : "))
+        self.Sample_size_employer_company_city = int(input("----Please input Sample size for employer (100~1000) : "))
+        print(" ")
+        print("========== COLLECTING ALL SAMPLE INFORMATION ==========")
 
     def get_N_names(self):  # this N supposed to be 100000
+        print("Sample size for people: " + str(self.Sample_size_people))
         combined_names = [f"{first} {middle} {last}" for first in self.firstnamelist for middle in self.middlenamelist
                           for last in
                           self.lastnamelist]
@@ -39,6 +42,7 @@ class get_all_info:
     def get_all_birthday_choices(self):
         birthday_list = [f"{month} {day}, {year}" for month in self.birthmonthlist for day in self.birthdaylist for year
                          in self.birthyearlist]
+        print("Sample size for birth date: " + "200 * 12 * 28")
         return birthday_list
 
     def get_all_birth_city_choices(self):  # this N supposed to be 100 ~ len(birthcitylist)
@@ -46,6 +50,7 @@ class get_all_info:
             birth_city_list = random.sample(self.birthcitylist, self.Sample_size_birth_city)
         else:
             birth_city_list = self.birthcitylist
+        print("Sample size for birth city: " + str(len(birth_city_list)))
         return birth_city_list
 
     def get_all_university_choices(self):  # this N supposed to be 100 ~ len(universitylist)
@@ -53,6 +58,7 @@ class get_all_info:
             university_list = random.sample(self.universitylist, self.Sample_size_university)
         else:
             university_list = self.universitylist
+        print("Sample size for university: " + str(len(university_list)))
         return university_list
 
     def get_all_major_choices(self):  # this N supposed to be 100 ~ len(majorlist)
@@ -60,6 +66,7 @@ class get_all_info:
             major_list = random.sample(self.majorlist, self.Sample_size_major)
         else:
             major_list = self.majorlist
+        print("Sample size for major: " + str(len(major_list)))
         return major_list
 
     def get_all_employer_and_city_choices(self):  # this N supposed to be 100 ~ len(employers_and_city_list)
@@ -67,4 +74,5 @@ class get_all_info:
             employer_and_city_list = random.sample(self.employers_and_city_list, self.Sample_size_employer_company_city)
         else:
             employer_and_city_list = self.employers_and_city_list
+        print("Sample size for employer: " + str(len(employer_and_city_list)))
         return employer_and_city_list
