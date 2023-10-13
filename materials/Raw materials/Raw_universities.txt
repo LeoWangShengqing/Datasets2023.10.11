@@ -1,30 +1,300 @@
-Massachusetts Institute of Technology (MIT)
-Stanford University
+Nova Southeastern University
+Denison University
+University of Massachusetts, Amherst
+Rice University
+Fordham University
+Marquette University
+University of Montana
+University of Pittsburgh School of Medicine
+Miami University
+University at Buffalo
+Arizona State University
+University of Wisconsin, Madison
+Virginia Commonwealth University
+Mayo Clinic Alix School of Medicine
+CUNY City College
+Syracuse University
+Florida Gulf Coast University
+University of Mississippi
+Otterbein University
+Stetson University
+University of South Dakota
 Harvard University
-California Institute of Technology (Caltech)
-University of Chicago
-Princeton University
+University of Virginia School of Medicine
+Xavier University
+Toledo Law School
+Cornell University Weill Cornell Medical College
+Icahn School of Medicine at Mount Sinai
+Houston Law Center
+Lynn University
+Bowling Green State University
+Southern Methodist University
+University of Miami
+University of Rhode Island
 Columbia University
-Yale University
-University of Pennsylvania
-University of California, Berkeley
-University of California, Los Angeles (UCLA)
-University of California, San Diego (UCSD)
-University of California, San Francisco (UCSF)
-University of Washington
-University of Michigan, Ann Arbor
-Johns Hopkins University
-Duke University
-Northwestern University
-University of Wisconsin-Madison
-University of California, Santa Barbara (UCSB)
-New York University (NYU)
-University of Texas at Austin
-University of North Carolina at Chapel Hill
-University of California, Irvine (UCI)
-University of California, Davis (UCD)
-University of Illinois Urbana-Champaign
+University of Nevada, Reno
+Florida Atlantic University
+Jacksonville University
+Fordham University
+Emory University
+University of California, Davis
+University of California, San Diego School of Medicine
+Duquesne University
+Montana State University
+Fairfield University
+Clemson University
+University of Richmond
+Saint Louis University
+New York University
+University of Arizona
+Roger Williams University
+Lehigh University
+St. Michael's College
+Northeastern University
+Utah State University
+American University
+Texas A&M University
+Duke University School of Medicine
+Western Washington University
+Ashland University
+Carnegie Mellon University
+Boston University
+Stony Brook University
+University of Texas, Austin
+Auburn University
+University of Texas Health Science Center at San Antonio Joe R. and Teresa Lozano Long School of Medicine
+University of Akron
+University of Georgia
+Texas Tech University
+Iowa State University
+Case Western Reserve University
+Gonzaga University
+Seton Hall University
+University of Tulsa
+University of Cincinnati
+Vanderbilt University
+College of William & Mary
+University of Pittsburgh
+Cornell University
+Wright State University
+North Carolina State University
+East Tennessee State University
+University of North Carolina at Chapel Hill School of Medicine
 University of Florida
-University of Maryland, College Park
-University of Southern California (USC)
+University of Colorado, Boulder
+Wittenberg University
+University of Tulsa
+University of Central Florida
+Northwestern University
+Middle Tennessee State University
+Vanderbilt University School of Medicine
+Oklahoma State University
+University of San Diego
+University of Missouri
+University of South Carolina
+University of California, Riverside
+University of Nebraska, Lincoln
+Rush University College of Nursing
+Drexel University
+Pennsylvania State University
+University of Southern California
+DePaul University
+University of Tennessee
+University of Michigan, Ann Arbor
+Michigan State University
+Old Dominion University
+University of Nebraska, Kearney
+Youngstown State University
+Binghamton University
+Florida International University
+CUNY Hunter College
+Dayton School of Law
+University of Portland
+University of Utah
+University of Texas Southwestern Medical Center
+University of South Florida
+Oregon Health and Science University School of Nursing
+University of Utah
+Clarkson University
+Rutgers University
+Pepperdine University
+Yale School of Medicine
+University of Oregon
+West Virginia University
+Yale University
+St. John's University
+Jackson State University
+University of Dayton
+Mississippi College
+Brandeis University
+University of Buffalo
+The College of Wooster
+La Salle University
+Stanford University School of Medicine
+Duke University School of Nursing
+Princeton University
+Purdue University
+California Institute of Technology
+University of Toledo
+Brigham Young University
+Princeton University
+University of North Carolina, Chapel Hill
+University of Florida College of Medicine
+University of Illinois--Chicago College of Nursing
+University of Houston
+Baldwin Wallace University
+Miami University
+New Mexico State University
+University of Cincinnati
+Mississippi State University
+University of California, Irvine
+University of Washington School of Nursing
+University of Tennessee
+Cincinnati Law School
+Kansas State University
+University of Houston
+Kent State University
+University of North Dakota
+University of Denver
+University of Pennsylvania
+University of New Hampshire
+Louisiana State University
+University of Dayton
+Eastern Washington University
+Pepperdine University
+CUNY Queens College
+Wake Forest University
+Bowling Green State University
+Brown University
+Reed College
+University of Virginia
+Dartmouth College
+University of Wisconsin, Madison
+University of California, Irvine School of Medicine
+Washington University in St. Louis
+Oregon State University
+University of Wyoming
+Creighton University
+Portland State University
+Ohio State Moritz College Law
+Baylor College of Medicine
+Oregon State University
+Tennessee State University
+Boston College
+Florida International University
+University of Virginia
+Case Western Reserve University School of Medicine
+University of Portland
+University of Akron
+Emory University School of Medicine
+Massachusetts Institute of Technology
+Washington University School of Medicine in St. Louis
+University of Tampa
+Medical College of Wisconsin
+University of California, Davis School of Medicine
+Harvard Medical School
+Virginia Tech
+Oberlin College
+SUNY Polytechnic Institute
+University of New Hampshire
+University of South Florida
+Oregon Health and Science University
+University of Dayton
+Ohio University
+Antioch College
+Florida State University
+Rensselaer Polytechnic Institute
+San Diego State University
+University of Southern Mississippi
+University of Kentucky
+University of Pennsylvania Perelman School of Medicine
+University of California, Los Angeles David Geffen School of Medicine
+University of Vermont
 University of Minnesota, Twin Cities
+University of California, San Diego
+University of Kansas
+Rollins College
+The New School
+Ohio State University
+Creighton University, Omaha
+Stony Brook University
+University of Oklahoma
+George Mason University
+University of California, Berkeley
+South Dakota State University
+Middlebury College
+Kenyon College
+Georgia Institute of Technology
+George Washington University
+Santa Clara University
+Tufts University
+Georgetown University
+University of Washington School of Medicine
+Stanford University
+Washington State University
+Brown University
+University of Illinois, Urbana-Champaign
+University of Wisconsin School of Medicine and Public Health
+University of California, Los Angeles
+University of Wisconsin, Milwaukee
+Providence College
+Johns Hopkins University
+Willamette University
+University of Miami
+University of Chicago
+University of Rhode Island
+Cleveland State University
+Memphis Cecil C. Humphreys School of Law
+Saint Joseph's University
+Colorado State University
+Loyola Marymount University
+Tulsa College of Law
+Florida State University
+University of Michigan Medical School
+University of Oklahoma
+University of Connecticut
+University of St. Thomas
+Santa Clara University
+Villanova University
+Wright State University
+University of Hawaii, Manoa
+Loyola University Chicago
+Uniformed Services University of the Health Sciences
+Johns Hopkins School of Medicine
+University of Iowa
+Ohio Wesleyan University
+Dartmouth College
+Rensselaer Polytechnic Institute
+University of Illinois, Chicago
+University of San Diego
+University of California, Santa Barbara
+North Dakota State University
+George Mason University
+University of Nebraska, Omaha
+Bryant University
+Ohio University
+Ohio State University
+Duke University
+Oklahoma State University
+University of Rochester
+University of Nevada, Las Vegas
+Tulane University
+Columbia University Vagelos College of Physicians and Surgeons
+University of Memphis
+University of Notre Dame
+University of Maryland, College Park
+University of Central Florida
+University of California, San Francisco
+Binghamton University
+Vanderbilt University
+Baylor University Louise Herrington School of Nursing
+Indiana University, Bloomington
+Marquette University
+University of Vermont
+University of New Mexico
+Temple University
+Miami University, Oxford
+Texas A&M University
+University of Alabama
+University of Findlay
+Baylor University

@@ -1,10 +1,263 @@
-Apple Inc. - Cupertino, CA
-Microsoft Corporation - Redmond, WA
-Amazon.com Inc. - Seattle, WA
+International Paper Company - Memphis, TN
+Novartis AG - East Hanover, NJ
+Crocs, Inc. - Niwot, CO
+CHS Inc. - Inver Grove Heights, MN
+Graphic Packaging Holding Company - Atlanta, GA
+Activision Blizzard, Inc. - Santa Monica, CA
+Dillard's, Inc. - Little Rock, AR
+Bandai Namco Holdings Inc. - Santa Clara, CA
+Kohl's Corp. - Menomonee Falls, WI
+Walt Disney Co. - Burbank, CA
+Molson Coors Beverage Co. - Chicago, IL
+Uniqlo - New York, NY
+Stanley Black & Decker, Inc. - New Britain, CT
+MRF Tyres - Akron, OH
+Meritor, Inc. - Troy, MI
+Anheuser-Busch InBev - New York, NY
+Ubisoft Entertainment S.A. - San Francisco, CA
+Est��e Lauder Companies Inc. - New York, NY
+Toro Company - Bloomington, MN
+Sava Tires - Kranj, Slovenia
+Federal Corporation - Parsippany, NJ
+Bridgestone Corporation - Tokyo, Japan
+Adobe Inc. - San Jose, CA
+H&M - New York, NY
+E. & J. Gallo Winery - Modesto, CA
+Raytheon Technologies Corp. - Waltham, MA
 Alphabet Inc. (Google's parent company) - Mountain View, CA
-Meta Platforms, Inc. (formerly Facebook, Inc.) - Menlo Park, CA
-Tesla, Inc. - Palo Alto, CA
-Berkshire Hathaway Inc. - Omaha, NE
-JPMorgan Chase & Co. - New York, NY
+Regeneron Pharmaceuticals Inc. - Tarrytown, NY
+Domtar Corporation - Fort Mill, SC
+Century Aluminum Company - Chicago, IL
+Cabela's Inc. - Sidney, NE
+Dr. Martens - Portland, OR
+Nucor Corporation - Charlotte, NC
+Avery Dennison Corporation - Glendale, CA
+Spotify Technology S.A. - New York, NY
+Slack Technologies, Inc. - San Francisco, CA
+Home Depot Inc. - Atlanta, GA
+Barum - Hanover, Germany
+Capcom Co., Ltd. - San Francisco, CA
+Kumho Tire Co., Inc. - Macon, GA
+Gap Inc. - San Francisco, CA
+Eaton Corporation plc - Beachwood, OH
+AbbVie Inc. - North Chicago, IL
+Broadcom Inc. - San Jose, CA
+Apollo Tyres Ltd. - Gurgaon, India
+Procter & Gamble Co. - Cincinnati, OH
+Bayer AG - Whippany, NJ
+Converse Inc. - Boston, MA
+MGM Studios Inc. - Beverly Hills, CA
+Finish Line, Inc. - Indianapolis, IN
+Parker Hannifin Corp. - Cleveland, OH
+Lionsgate Films - Santa Monica, CA
+JAKKS Pacific, Inc. - Santa Monica, CA
+Ford Motor Co. - Dearborn, MI
+Volvo Group - Greensboro, NC
+McDonald's Corp. - Chicago, IL
+Spin Master Corp. - Los Angeles, CA
+Bemis Company, Inc. - Neenah, WI
+Hollister Co. - New Albany, OH
+Halliburton Co. - Houston, TX
+IBM Corporation - Armonk, NY
+Pottery Barn - San Francisco, CA
+BASF Corporation - Florham Park, NJ
+Bunge Limited - Chesterfield, MO
+Sephora - San Francisco, CA
+Hewlett Packard Enterprise Co. - Houston, TX
+Take-Two Interactive Software, Inc. - New York, NY
+LEGO Group - Enfield, CT
 Johnson & Johnson - New Brunswick, NJ
-Visa Inc. - Foster City, CA
+ViacomCBS Inc. - New York, NY
+Reynolds Group Holdings Limited - Lake Forest, IL
+AGCO Corporation - Duluth, GA
+Costco Wholesale Corp. - Issaquah, WA
+Carpenter Technology Corporation - Philadelphia, PA
+21st Century Fox - New York, NY
+Verso Corporation - Miamisburg, OH
+Hasbro, Inc. - Pawtucket, RI
+Pirelli & C. S.p.A. - Milan, Italy
+Steel Dynamics, Inc. - Fort Wayne, IN
+Volvo Construction Equipment - Shippensburg, PA
+General Electric Co. - Boston, MA
+Constellation Brands, Inc. - Victor, NY
+Caterpillar Inc. - Peoria, IL
+PVH Corp. - New York, NY
+Hoosier Racing Tire - Lakeville, IN
+Berry Global Group, Inc. - Evansville, IN
+Snap-on Incorporated - Kenosha, WI
+Reliance Steel & Aluminum Co. - Los Angeles, CA
+Schlumberger Ltd. - Houston, TX
+Kaiser Aluminum Corporation - Foothill Ranch, CA
+Arconic Inc. - New York, NY
+Sega Sammy Holdings Inc. - Irvine, CA
+Amgen Inc. - Thousand Oaks, CA
+Mitas - Charles City, IA
+Snap Inc. - Santa Monica, CA
+Nitto Tire U.S.A. Inc. - Cypress, CA
+Southwest Airlines Co. - Dallas, TX
+CNH Industrial N.V. - Racine, WI
+Sonoco Products Company - Hartsville, SC
+Merck & Co., Inc. - Kenilworth, NJ
+3M Company - St. Paul, MN
+Asics - Irvine, CA
+Chevron Corp. - San Ramon, CA
+The Hershey Company - Hershey, PA
+The North Face - Denver, CO
+Saks Fifth Avenue - New York, NY
+J.C. Penney Company, Inc. - Plano, TX
+Komatsu Ltd. - Rolling Meadows, IL
+Vans - Costa Mesa, CA
+Forever 21, Inc. - Los Angeles, CA
+Morgan Stanley - New York, NY
+Victoria's Secret - Columbus, OH
+Time Warner Inc. - New York, NY
+Kellogg's - Battle Creek, MI
+Cargill, Incorporated - Wayzata, MN
+American Express Co. - New York, NY
+Intel Corporation - Santa Clara, CA
+Dell Technologies Inc. - Round Rock, TX
+Barnes & Noble, Inc. - New York, NY
+ConocoPhillips - Houston, TX
+Nordstrom, Inc. - Seattle, WA
+Boeing Co. - Chicago, IL
+Foot Locker, Inc. - New York, NY
+Hush Puppies - Rockford, MI
+Sappi Limited - Boston, MA
+Falken Tire Corporation - Rancho Cucamonga, CA
+The J.M. Smucker Co. - Orrville, OH
+Ball Corporation - Broomfield, CO
+L'Or��al S.A. - New York, NY
+Kubota Corporation - Grapevine, TX
+JCB - Savannah, GA
+Eli Lilly and Co. - Indianapolis, IN
+Coca-Cola Co. - Atlanta, GA
+Airbnb, Inc. - San Francisco, CA
+Novelis Inc. - Atlanta, GA
+Northrop Grumman Corp. - Falls Church, VA
+Restoration Hardware - Corte Madera, CA
+Bridgestone India Private Limited - Pune, India
+Microsoft Corporation - Redmond, WA
+Tyson Foods Inc. - Springdale, AR
+Exxon Mobil Corp. - Irving, TX
+PACCAR Inc. - Bellevue, WA
+Michelin India Pvt Ltd - Gurgaon, India
+Konami Holdings Corporation - El Segundo, CA
+Kobal - Katy, TX
+Clearwater Paper Corporation - Spokane, WA
+Goldman Sachs Group Inc. - New York, NY
+The Andersons, Inc. - Maumee, OH
+Baker Hughes Co. - Houston, TX
+United Airlines Holdings Inc. - Chicago, IL
+DreamWorks Animation - Glendale, CA
+John Deere - Moline, IL
+The Mosaic Company - Tampa, FL
+Salesforce.com, Inc. - San Francisco, CA
+Giti Tire - Chester, SC
+L Brands, Inc. - Columbus, OH
+Case Corporation - Racine, WI
+BFGoodrich - Greenville, SC
+West Elm - Brooklyn, NY
+Louis Dreyfus Company - Wilton, CT
+Zoom Video Communications, Inc. - San Jose, CA
+Abercrombie & Fitch Co. - New Albany, OH
+PepsiCo, Inc. - Purchase, NY
+Kenda Tires - Reynoldsburg, OH
+Dick's Sporting Goods, Inc. - Coraopolis, PA
+Bass Pro Shops - Springfield, MO
+Bobcat Company - West Fargo, ND
+Kimberly-Clark Corp. - Irving, TX
+Express, Inc. - Columbus, OH
+Syngenta AG - Downers Grove, IL
+Land O'Lakes, Inc. - Arden Hills, MN
+Vredestein - Enschede, Netherlands
+TVS Srichakra Ltd. - Madurai, India
+Bed Bath & Beyond Inc. - Union, NJ
+Unilever PLC - Englewood Cliffs, NJ
+General Mills, Inc. - Minneapolis, MN
+Ralph Lauren Corporation - New York, NY
+Roche Holding AG - South San Francisco, CA
+Mars, Incorporated - McLean, VA
+Twitter, Inc. - San Francisco, CA
+Hankook Tire & Technology - Clarksville, TN
+Fila - Sparks, MD
+Uber Technologies Inc. - San Francisco, CA
+Walgreens Boots Alliance, Inc. - Deerfield, IL
+Olympic Steel, Inc. - Bedford Heights, OH
+General Tire - Fort Mill, SC
+Paramount Pictures - Hollywood, CA
+Balkrishna Industries Limited - Mumbai, India
+CF Industries Holdings, Inc. - Deerfield, IL
+Stora Enso Oyj - Helsinki, Finland
+Macy's, Inc. - New York, NY
+Dow Inc. - Midland, MI
+Dollar General Corp. - Goodlettsville, TN
+JPMorgan Chase & Co. - New York, NY
+Altria Group Inc. - Richmond, VA
+Ulta Beauty, Inc. - Bolingbrook, IL
+Doosan Corporation - Suwanee, GA
+Michelin - Greenville, SC
+Hitachi Construction Machinery Co., Ltd. - Tarrytown, NY
+Uniroyal - Greenville, SC
+Clarks - Waltham, MA
+Skechers U.S.A., Inc. - Manhattan Beach, CA
+Sealed Air Corporation - Charlotte, NC
+British American Tobacco - Winston-Salem, NC
+Lorillard Tobacco Company - Greensboro, NC
+Lockheed Martin Corp. - Bethesda, MD
+Zara - New York, NY
+Colgate-Palmolive Co. - New York, NY
+Sumitomo Rubber Industries, Ltd. - Kobe, Japan
+Tenaris - Houston, TX
+Best Buy Co., Inc. - Richfield, MN
+Campbell Soup Co. - Camden, NJ
+Delta Air Lines, Inc. - Atlanta, GA
+JK Tyre & Industries Ltd. - New Delhi, India
+Monsanto Company - St. Louis, MO
+Berkshire Hathaway Inc. - Omaha, NE
+Dollar Tree, Inc. - Chesapeake, VA
+Qualcomm Inc. - San Diego, CA
+Biogen Inc. - Cambridge, MA
+Cisco Systems, Inc. - San Jose, CA
+Imperial Brands - Greensboro, NC
+Starbucks Corp. - Seattle, WA
+FedEx Corporation - Memphis, TN
+Amcor plc - Ann Arbor, MI
+TJX Companies Inc. - Framingham, MA
+Crate & Barrel - Northbrook, IL
+Nike, Inc. - Beaverton, OR
+Husqvarna Group - Charlotte, NC
+Norsk Hydro ASA - Baltimore, MD
+VF Corporation - Denver, CO
+Allegheny Technologies Incorporated - Pittsburgh, PA
+Bath & Body Works - Columbus, OH
+Pier 1 Imports, Inc. - Fort Worth, TX
+Navistar International Corporation - Lisle, IL
+Kraft Heinz Co. - Chicago, IL
+Dunlop Tyres - Buffalo, NY
+Pfizer Inc. - New York, NY
+UPM-Kymmene Corporation - Helsinki, Finland
+Reebok - Boston, MA
+Target Corp. - Minneapolis, MN
+R.J. Reynolds Tobacco Company - Winston-Salem, NC
+Yokohama India Pvt Ltd - New Delhi, India
+Puma - Westford, MA
+Walmart Inc. - Bentonville, AR
+Terex Corporation - Westport, CT
+Goodyear Tire & Rubber Company - Akron, OH
+General Motors Co. - Detroit, MI
+Nestl�� S.A. - Arlington, VA
+Yokohama Rubber Company, Limited - Tokyo, Japan
+Tesla, Inc. - Palo Alto, CA
+Commercial Metals Company - Irving, TX
+United States Steel Corporation - Pittsburgh, PA
+CVS Health Corp. - Woonsocket, RI
+New Balance - Boston, MA
+Nexen Tire America, Inc. - Diamond Bar, CA
+Verizon Communications Inc. - New York, NY
+CEAT Ltd. - Mumbai, India
+Goodyear India Limited - New Delhi, India
+Neiman Marcus Group Ltd. LLC - Dallas, TX
+Electronic Arts Inc. - Redwood City, CA
+Oracle Corporation - Redwood City, CA
+Agrium Inc. - Denver, CO
+Archer Daniels Midland Company - Chicago, IL

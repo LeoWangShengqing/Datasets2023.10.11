@@ -1,10 +1,100 @@
-Business Administration and Management
-Psychology
-Nursing
-Biological Sciences
-Computer Science
-Engineering
-English Literature
-Political Science and Government
-Economics
+Accounting
+Aerospace Engineering
+African Studies
+Agricultural Sciences
+Anthropology
+Architecture
+Art History
+Astronomy
+Biochemistry
+Bioengineering
+Biology
+Biomedical Engineering
+Business Administration
+Chemical Engineering
+Chemistry
+Civil Engineering
+Classical Studies
 Communications
+Computer Science
+Creative Writing
+Criminal Justice
+Criminology
+Dance
+Dentistry
+Drama and Theatre Arts
+Economics
+Education
+Electrical Engineering
+English
+Environmental Science
+Fashion Design
+Film and Video
+Finance
+Forensic Science
+French
+Geography
+Geology
+German
+Graphic Design
+Health Administration
+History
+Hospitality Management
+Human Resources
+Information Systems
+Interior Design
+International Relations
+Journalism
+Kinesiology
+Law
+Linguistics
+Literature
+Management
+Marketing
+Mathematics
+Mechanical Engineering
+Medicine
+Microbiology
+Music
+Nursing
+Nutrition
+Occupational Therapy
+Philosophy
+Photography
+Physics
+Political Science
+Psychology
+Public Health
+Public Relations
+Real Estate
+Religious Studies
+Social Work
+Sociology
+Software Engineering
+Spanish
+Special Education
+Speech Pathology
+Statistics
+Studio Arts
+Supply Chain Management
+Theology
+Urban Planning
+Veterinary Medicine
+Visual Arts
+Women's Studies
+Zoology
+Agricultural Engineering
+Animal Science
+Archaeology
+Art Education
+Asian Studies
+Audiology
+Biological Engineering
+Biophysics
+Business Economics
+Child Development
+Marine Biology
+Petroleum Engineering
+Public Policy
+Ethnic Studies
+Digital Media and Design
